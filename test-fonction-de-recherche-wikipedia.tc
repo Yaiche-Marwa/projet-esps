@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test-fonction-de-recherche-wikipedia</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>944b1e69-e5f9-4b02-aafc-a150d9c50c71</testCaseGuid>
+</TestCaseEntity>
